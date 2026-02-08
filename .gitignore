@@ -32,3 +32,6 @@ first_page_*.png
 # Temp files
 *.tmp
 *.bak
+
+# Extracted page images
+page_*.png
