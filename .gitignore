@@ -1,0 +1,34 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Output directories
+extracted_boxes/
+
+# Debug/temp images
+debug_*.png
+first_page_*.png
+
+# Large source files
+*.pdf
+
+# Temp files
+*.tmp
+*.bak
